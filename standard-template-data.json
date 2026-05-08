@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-08T01:55:24.972916216Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-08T01:57:38.759709578Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "756b02be-2006-41a9-a1dd-72a791dc331c",
     "homepageId": "0b4f8cc5-608e-4451-b27b-d2545fb93364"
@@ -773,9 +773,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "포천 라비앤로즈 펜션",
+      "description": "포천 라비엔로즈 펜션, 맑은 자연 속에서 조용한 힐링을 즐기는 감성 스테이",
+      "keywords": "포천펜션, 감성숙소, 산속힐링, 자연속휴식, 포천여행추천"
     },
     "socialLinks": {
       "facebook": null,
@@ -1053,8 +1053,8 @@
           }
         },
         "color": {
-          "primary": "#FFF9F1",
-          "secondary": "#B66E41"
+          "primary": "#EFF5F3",
+          "secondary": "#116E67"
         }
       },
       "property": {

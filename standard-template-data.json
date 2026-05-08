@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-08T02:51:46.199926924Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-08T02:53:20.076001667Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "756b02be-2006-41a9-a1dd-72a791dc331c",
     "homepageId": "0b4f8cc5-608e-4451-b27b-d2545fb93364"
@@ -1280,7 +1280,98 @@
       },
       "property": {
         "name": "포천 라비앤로즈 펜션",
-        "images": [ ],
+        "images": [
+          {
+            "id": "ed7bd648-01b4-45d7-b6c5-4bb26c48e1d1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_thumbnail/1778208794493-r0zsyacqy9.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "d62fb276-a104-40e3-9c25-a46f926d0d24",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794480-houog6s12l.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "525eeb93-44a8-453b-bbc7-35553f1e891f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794458-ma0528qwce.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "76b8d48a-2ffc-47ce-82bd-4d21839561e9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794483-yhcdofuaux.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "0ad3f5c7-ef44-4413-ad12-16bee5d80c6c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794497-964h9ajspc.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "341e7e4d-2e1e-49bc-b9f4-7caf44c5ffc6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794500-jwqsgzmylx.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "929f2063-54c1-451e-842b-b846c2516e7f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794501-ym3u64l7x8.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "d90810ef-48a9-49a7-974a-5c007626f304",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794516-ppsamoe008.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "7d007791-76f7-42af-9c94-01526fa68594",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794514-1ymbkozmy5.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "b7911853-7bc2-4947-aa73-36ae90cdf16e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/property_exterior/1778208794528-8xx8gsii7z.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Pocheon La Vie en Rose Pension"
       },
       "roomtypes": [

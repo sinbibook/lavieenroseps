@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-08T01:57:38.759709578Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-08T02:51:46.199926924Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "756b02be-2006-41a9-a1dd-72a791dc331c",
     "homepageId": "0b4f8cc5-608e-4451-b27b-d2545fb93364"
@@ -75,7 +75,32 @@
         "description": " ",
         "usageGuide": "[실내 개별바베큐]\n- 이용금액 : 2인기준 10,000원\n- 제공품목 : 가스그릴\n\n[야외 개별바베큐]\n- 이용금액 : 2인기준 20,000원\n- 제공품목 : 숯+그릴",
         "displayOrder": 0,
-        "images": [ ]
+        "images": [
+          {
+            "id": "052796b2-1100-42f8-90f0-ccb15b1dd638",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/16bd14a9-56dd-4654-a54e-c6fd3a6df405/main/1778206760299-rdvpxtkkbb.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "76733e0e-30bf-486a-b5c5-1cf8d3f427cd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/16bd14a9-56dd-4654-a54e-c6fd3a6df405/main/1778206760301-gxa5nzwpji.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "bc5cde03-083e-4f07-8bdd-9cc9b03c0b97",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/16bd14a9-56dd-4654-a54e-c6fd3a6df405/main/1778206760302-r74it1fblx.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "e1890585-a70e-432e-b416-b9be8c4136f0",
@@ -83,7 +108,40 @@
         "description": " ",
         "usageGuide": "- 스파/월풀 : 디럭스트윈 101,102\n- 제트스파 : 디럭스트윈103,디럭스커플 201,202\n- 대형스파 : 프라이빗 A, B, C, 프리미엄트윈\n- 대형스파 이용요금 : 10,000원(1박기준/현장결제)\n※ 사전예약 및 문의필수",
         "displayOrder": 1,
-        "images": [ ]
+        "images": [
+          {
+            "id": "f810bc67-9d14-4d65-864b-5ef9033b669a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1890585-a70e-432e-b416-b9be8c4136f0/main/1778206761075-whkp5p64qa.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "742af15f-4b77-47aa-9c3c-976c31b0858b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1890585-a70e-432e-b416-b9be8c4136f0/main/1778206761104-q2r4w086xm.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "74de2554-713a-4416-bd00-07ae6bb8ca85",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1890585-a70e-432e-b416-b9be8c4136f0/main/1778206761106-eu90f3paj7.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3e7e110a-9ea0-4971-a753-21d9f535af6b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1890585-a70e-432e-b416-b9be8c4136f0/main/1778206761107-o4uxvnxna8.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "0dfd7f6f-1d5c-47b7-a3bf-3c14bd737c84",
@@ -91,7 +149,32 @@
         "description": " ",
         "usageGuide": "- 이용시간 : 10:00~11:00\n- 제공품목 : 간단한 토스트, 베이글, 주스, 우유, 커피",
         "displayOrder": 2,
-        "images": [ ]
+        "images": [
+          {
+            "id": "a60a2525-1631-4834-90ce-b8df5d753acc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0dfd7f6f-1d5c-47b7-a3bf-3c14bd737c84/main/1778206761715-mhrnuiz3o9.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "86cb7f94-dae9-4ae8-bd57-8a58e69ab82d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0dfd7f6f-1d5c-47b7-a3bf-3c14bd737c84/main/1778206761791-i9cfai14gi.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "600ee631-87c4-4484-a547-b98c1a1aa3ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0dfd7f6f-1d5c-47b7-a3bf-3c14bd737c84/main/1778206761792-rkme9w69ir.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "ef03800a-b633-41db-9eee-9f852b5c7735",
@@ -151,8 +234,90 @@
     },
     "images": [
       {
-        "thumbnail": [ ],
-        "exterior": [ ],
+        "thumbnail": [
+          {
+            "id": "85661a68-aa5d-4973-af7f-c8e5d22d12f1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/thumbnail/1778206758967-af8bldjgm1.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "d06417b7-3492-4dea-84b4-8af2fcfb7c8d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206758980-txq5akflhf.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1da52193-1107-4d6a-8701-bf6a69c3897a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759066-7bufn0kp2y.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "969250d6-6568-4f48-909d-8f4ff228dcb7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759068-d00buhkqfz.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "edf9ef6b-9720-4915-bb4c-de53d60ef253",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759071-dlkhqi22fi.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9115f9cf-d411-4472-be51-89c5ac922d7a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759069-irhxdyotmi.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f3216382-dcf0-49f3-8afc-760f795e0886",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759166-vcy0onyfox.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d3fc6dd8-12c3-4db9-bded-3934b9cf0a03",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759167-zw3mdsnz1q.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5d76e107-b979-4c08-9356-ea87c5204b97",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759118-r9m1o15n9k.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9ead1568-8ace-4e3f-bacb-7655fecf702d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759168-54eru8pmb1.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
         "surrounding": [ ],
         "commonArea": [ ]
       }
@@ -894,7 +1059,32 @@
               },
               "essence": {
                 "title": "La Vie en Rose",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "31cdd762-aeb4-40e7-a262-b0618df22208",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/index_essence/1778208698191-2x3ivdanvw.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "2cbc134e-75e6-4f3d-8ef0-810fb16715d9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/index_essence/1778208698170-v6h2iq5m8u.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "1356e26c-7179-4789-8ade-c26e72666d4d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/index_essence/1778208698268-olhnfts9ff.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": " 푸른 자연과 맑은 공기에 둘러싸인 포천 감성 스테이.\n산속의 조용한 분위기 속에서 온전한 힐링을 즐겨보세요.\n복잡한 일상에서 벗어나 편안히 쉬어가기 좋은 공간입니다."
@@ -995,9 +1185,40 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": " "
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "58621697-d0b8-4729-8d3c-fbef4d9554e3",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/main_about/1778208698194-czgqqcwfap.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "984283ec-0e7f-4fe1-8286-b9d711da9a30"
+                    }
+                  ],
+                  "blockId": "984283ec-0e7f-4fe1-8286-b9d711da9a30",
+                  "description": "푸른 자연과 맑은 공기에 둘러싸인 포천 감성 스테이.\n산속의 조용한 분위기 속에서 온전한 힐링을 즐겨보세요.\n복잡한 일상에서 벗어나 편안히 쉬어가기 좋은 공간입니다."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "83c7b1e4-55c9-407c-bffd-c718171c0563",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0b4f8cc5-608e-4451-b27b-d2545fb93364/main_about/1778208698266-mu5bqvo5uy.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "92d98ab5-d9e2-4cda-b9b8-6db7f0f39505"
+                    }
+                  ],
+                  "blockId": "92d98ab5-d9e2-4cda-b9b8-6db7f0f39505",
+                  "description": "월풀 스파부터 바비큐, 카페, 불멍까지 \n다양하게 준비되어 있습니다.\n조식과 픽업서비스까지 더해져 \n더욱 편안한 여행을 즐기실 수 있어요."
+                }
+              ]
             }
           ]
         },

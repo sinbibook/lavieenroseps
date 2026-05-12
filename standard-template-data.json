@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-05-12T03:50:43.727182358Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-05-12T07:31:10.426687475Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "756b02be-2006-41a9-a1dd-72a791dc331c",
     "homepageId": "0b4f8cc5-608e-4451-b27b-d2545fb93364"
@@ -179,10 +179,27 @@
       {
         "id": "ef03800a-b633-41db-9eee-9f852b5c7735",
         "name": "자체픽업",
-        "description": " ",
+        "description": " ※ 자체픽업 이미지는 AI로 대체 제공되며, 실제와 차이가 있을 수 있습니다.",
         "usageGuide": "- 픽업장소 : 일동버스터미널\n- 픽업시간 : 15:00 / 18:00\n- 샌딩시간 : 11:00\n※ 사전예약 및 문의필수",
         "displayOrder": 3,
-        "images": [ ]
+        "images": [
+          {
+            "id": "0e6156e0-4c6c-4c8e-b047-129f3fe239e6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ef03800a-b633-41db-9eee-9f852b5c7735/main/1778570987827-bwac53po92.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0cef8534-b63c-44ed-b708-2c56049d67e2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ef03800a-b633-41db-9eee-9f852b5c7735/main/1778570987823-yg894wozd8.png",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -1316,6 +1333,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {

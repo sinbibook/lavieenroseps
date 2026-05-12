@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-12T03:45:13.072263637Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-12T03:49:28.255392714Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "756b02be-2006-41a9-a1dd-72a791dc331c",
     "homepageId": "0b4f8cc5-608e-4451-b27b-d2545fb93364"
@@ -328,7 +328,7 @@
       "id": "08f03b2e-bf70-4df1-a880-d1ae5c014f4f",
       "name": "프라이빗 A(대형스파/개별바비큐)",
       "description": "",
-      "roomInfo": "독채형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
+      "roomInfo": "독채형, 거실1+침대룸(퀸침대1+베드형쇼파1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 99.17,
@@ -344,7 +344,22 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 1,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
         "침대",
         "테라스",
@@ -396,7 +411,7 @@
       "id": "19f27d8a-106b-4274-9556-9a435d0beb98",
       "name": "프라이빗 B(대형스파/개별바비큐)",
       "description": "",
-      "roomInfo": "독채형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
+      "roomInfo": "독채형, 거실1+침대룸(퀸침대1+베드형쇼파1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 99.17,
@@ -412,7 +427,22 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 1,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
         "침대",
         "테라스",
@@ -464,7 +494,7 @@
       "id": "a558f0f5-ad70-4cba-814e-84c678194044",
       "name": "프라이빗 C(대형스파/개별바비큐)",
       "description": "",
-      "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
+      "roomInfo": "원룸형, 거실1+침대룸(퀸침대1+베드형쇼파1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 99.17,
@@ -480,7 +510,22 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 1,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
         "침대",
         "테라스",
@@ -532,7 +577,7 @@
       "id": "f2733218-1ad7-4035-9c1d-61567f8d5898",
       "name": "프리미엄 트윈(대형스파/개별바비큐)",
       "description": "",
-      "roomInfo": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐",
+      "roomInfo": "원룸형, 거실1+침대룸(퀸침대2+베드형쇼파1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 99.17,
@@ -548,7 +593,22 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 2,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 1,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
         "침대",
         "테라스",

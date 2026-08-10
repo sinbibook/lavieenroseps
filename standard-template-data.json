@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-06-11T03:58:59.940372284Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-08-10T08:37:50.586914750Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "756b02be-2006-41a9-a1dd-72a791dc331c",
     "homepageId": "0b4f8cc5-608e-4451-b27b-d2545fb93364"
@@ -10,34 +10,35 @@
     "id": "756b02be-2006-41a9-a1dd-72a791dc331c",
     "name": "포천 라비앤로즈 펜션",
     "nameEn": "Pocheon La Vie en Rose Pension",
-    "description": "",
+    "description": "포천의 자연 속에서 감성적인 휴식을 즐길 수 있는 라비앤로즈 펜션입니다.",
     "subtitle": "",
-    "address": "경기 포천시 일동면 운악청계로1480번길 38-1",
-    "latitude": 37.9391884888427,
-    "longitude": 127.341109112199,
+    "address": "경기 포천시 일동면 운악청계로1480번길 38 라비앤로즈",
+    "latitude": 37.9393953394418,
+    "longitude": 127.340581771118,
     "contactPhone": "010-9472-2587",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
-    "checkInOutInfo": "[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 숙박 업소는 법적으로 청소년 혼숙이 금지되어 있습니다. 또한 해당 펜션은 동성인 경우에도 미성년자 입실이 절대 불가하며 해당 사유로 환불 받을 수 없습니다.\n- 최대 인원 초과 시 입실이 불가할 수 있으며, 해당 사유로 환불을 받으실 수 없습니다.(유아, 어린이 포함)\n- 전 객실 반려동물 출입이 불가합니다. \n- 객실 및 주변시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 객실의 안전과 화재예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않습니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다 (화재로 인한 책임은 이용자에게 있습니다)\n\n[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n\n[자체픽업]\n- 픽업장소 : 일동버스터미널\n- 픽업시간 : 15:00 / 18:00\n- 샌딩시간 : 11:00\n※ 사전예약 및 문의필수\n\n[실내 개별바베큐]\n- 이용금액 : 2인기준 10,000원 (1박기준/현장결제)\n- 제공품목 : 가스그릴\n- 운영시간 : 입실후 ~ 23시까지\n\n[야외 개별바베큐]\n- 이용금액 : 2인기준 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴\n- 운영시간 : 입실후 ~ 23시까지\n\n[불멍]\n- 이용금액 : 17,000원 (1박기준/현장결제)\n- 제공품목 : 장작 1망 + 불쏘시개 + 라이터\n- 운영시간 : 입실후 ~ 23시까지\n\n [대형스파/제트스파/월풀]\n- 스파/월풀 : 101,102\n- 제트스파 : 103,201,202\n- 대형스파 : A, B, C, P\n- 대형스파 이용요금 : 10,000원(1박기준/현장결제)\n※ 사전예약 및 문의필수\n※ 외부 입욕제 사용금지 (펜션 내에서 이용가능한 천연입욕제 구매가능)\n\n[조식서비스]\n- 이용시간 : 10:00~11:00\n- 제공품목 : 간단한 토스트, 베이글, 주스, 우유, 커피\n\n[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 넷플릭스 이용 가능(개인아이디사용)\n- 펜션 내 주차공간\n\n[승용차 이용시]\n ※ 네비게이션에 주소 또는 숙소명을 검색해주세요\n- 도로명 주소 : 경기 포천시 일동면 운악청계로1480번길 38-1 가동\n\n[주변관광지]\n- 청계호수\n- 아트밸리\n- 허브아일랜드\n- 산정호수\n- 평강랜드\n- 산사원",
-    "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
+    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 숙박 업소는 법적으로 청소년 혼숙이 금지되어 있습니다. 또한 해당 펜션은 동성인 경우에도 미성년자 입실이 절대 불가하며 해당 사유로 환불 받을 수 없습니다.\n- 최대 인원 초과 시 입실이 불가할 수 있으며, 해당 사유로 환불을 받으실 수 없습니다.(유아, 어린이 포함)\n- 전 객실 반려동물 출입이 불가합니다. \n- 객실 및 주변시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 객실의 안전과 화재예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않습니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다 (화재로 인한 책임은 이용자에게 있습니다)\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n\n[개별바베큐]\n[실내 개별바베큐]\n- 이용금액 : 2인기준 10,000원 (1박기준/현장결제)\n- 제공품목 : 가스그릴\n- 운영시간 : 입실후 ~ 23시까지\n\n[야외 개별바베큐]\n- 이용금액 : 2인기준 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴\n- 운영시간 : 입실후 ~ 23시까지\n\n[스파]\n[스파/월풀]\n- 스파/월풀 : 101,102\n- 제트스파 : 103,201,202\n- 대형스파 : A, B, C, P\n- 대형스파 이용요금 : 10,000원(1박기준/현장결제)\n※ 사전예약 및 문의필수\n※ 외부 입욕제 사용금지 (펜션 내에서 이용가능한 천연입욕제 구매가능)\n\n[불멍]\n[불멍]\n- 이용금액 : 17,000원 (1박기준/현장결제)\n- 제공품목 : 장작 1망 + 불쏘시개 + 라이터\n- 운영시간 : 입실후 ~ 23시까지\n\n[조식 서비스]\n[조식서비스]\n- 운영시간 : 10:00~11:00\n- 제공품목 : 간단한 토스트, 베이글, 주스, 우유, 커피\n\n[편의 및 주변 시설]\n[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 넷플릭스 이용 가능\n- 펜션 내 주차공간\n\n[주변관광지]\n- 청계호수\n- 아트밸리\n- 허브아일랜드\n\n[픽업]\n[자체픽업]\n- 픽업장소 : 일동버스터미널\n- 픽업시간 : 15:00 / 18:00\n- 샌딩 시간 : 11:00\n※ 사전예약 및 문의필수\n\n[교통편]\n도착하시면 도로 입구에 라비엔로즈 간판이 있고 언덕위로 30m\n올라오시면 좌측에 주차장이 있습니다.\n주차하시고 전화주시면 바로 달려나가 안내해 드립니다~^^",
+    "reservationGuide": "[펜션 이용 안내 사항]\n- 숙박 업소는 법적으로 청소년 혼숙이 금지되어 있습니다. 또한 해당 펜션은 동성인 경우에도 미성년자 입실이 절대 불가하며 해당 사유로 환불 받을 수 없습니다.\n- 최대 인원 초과 시 입실이 불가할 수 있으며, 해당 사유로 환불을 받으실 수 없습니다.(유아, 어린이 포함)\n- 전 객실 반려동물 출입이 불가합니다. \n- 객실 및 주변시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 객실의 안전과 화재예방을 위해 객실 내에서 생선이나 고기 등을 굽는 직화 방식은 허용되지 않습니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다 (화재로 인한 책임은 이용자에게 있습니다)",
     "province": "경기도",
     "city": "포천시",
     "domain": "lavieenroseps.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12039",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1657781",
     "ybsId": "26994",
-    "amenities": [ ],
+    "amenities": [
+      "흡연구역(지정장소)",
+      "주차장"
+    ],
     "nearbyAttractions": [
-      "산",
-      "맛집"
+      "수상스포츠",
+      "포레스트뷰(산)"
     ],
-    "services": [ ],
-    "propertyThemes": [
-      "산뷰",
-      "힐링",
-      "커플"
+    "services": [
+      "조식(무료)"
     ],
+    "propertyThemes": [ ],
     "propertyTypes": [
       "펜션"
     ],
@@ -47,8 +48,8 @@
       "representativeName": "마승연",
       "businessAddress": "경기도 포천시 일동면 운악청계로 1480번길 38-1, 가동",
       "businessPhone": "010-9472-2587",
-      "businessEmail": "0000@naver.com",
-      "businessType": "individual",
+      "businessEmail": "",
+      "businessType": "corporate",
       "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": "",
       "ecommerceRegistrationNumber": ""
@@ -195,7 +196,7 @@
       {
         "id": "ef03800a-b633-41db-9eee-9f852b5c7735",
         "name": "자체픽업",
-        "description": " ※ 자체픽업 이미지는 AI로 대체 제공되며, 실제와 차이가 있을 수 있습니다.",
+        "description": "※ 자체픽업 이미지는 AI로 대체 제공되며, 실제와 차이가 있을 수 있습니다.",
         "usageGuide": "- 픽업장소 : 일동버스터미널\n- 픽업시간 : 15:00 / 18:00\n- 샌딩시간 : 11:00\n※ 사전예약 및 문의필수",
         "displayOrder": 3,
         "images": [
@@ -219,6 +220,10 @@
       }
     ],
     "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
       {
         "refundProcessingDays": 9,
         "refundRate": 90
@@ -262,16 +267,18 @@
     ],
     "refundSettings": {
       "customerRefundNotice": "",
-      "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
     },
     "images": [
       {
         "thumbnail": [
           {
-            "id": "85661a68-aa5d-4973-af7f-c8e5d22d12f1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/thumbnail/1778206758967-af8bldjgm1.jpg",
-            "sortOrder": 0,
+            "id": "8bbdbcab-fef6-41d8-b99f-339d7dd77297",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/02/KDTgrV6kft0q.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -279,73 +286,73 @@
         ],
         "exterior": [
           {
-            "id": "d06417b7-3492-4dea-84b4-8af2fcfb7c8d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206758980-txq5akflhf.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "1da52193-1107-4d6a-8701-bf6a69c3897a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759066-7bufn0kp2y.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "969250d6-6568-4f48-909d-8f4ff228dcb7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759068-d00buhkqfz.jpg",
+            "id": "5e4072b1-7a60-4ff3-9e70-d14b00f6e9b3",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/uJHYL8hlynZ6.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "edf9ef6b-9720-4915-bb4c-de53d60ef253",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759071-dlkhqi22fi.jpg",
+            "id": "ccf45ebd-a48c-4cda-bad3-62beb611db53",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/5nZm3a7iBSxJ.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "9115f9cf-d411-4472-be51-89c5ac922d7a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759069-irhxdyotmi.jpg",
+            "id": "da3721dc-5e78-4fc9-bf57-867a99395d41",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/IlszAdU5e36D.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "f3216382-dcf0-49f3-8afc-760f795e0886",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759166-vcy0onyfox.jpg",
+            "id": "269eb85d-f503-4c72-8e51-06eef6868bc8",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/QgyoXNTMcDHV.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "d3fc6dd8-12c3-4db9-bded-3934b9cf0a03",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759167-zw3mdsnz1q.jpg",
+            "id": "e2693a5a-c103-41f4-a74e-2ba313d80d04",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/hy0ArWjR5ulN.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "5d76e107-b979-4c08-9356-ea87c5204b97",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759118-r9m1o15n9k.jpg",
+            "id": "f7659264-ffc4-4928-87ae-6582fada290f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/9b6esonxvzwc.jpg",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "9ead1568-8ace-4e3f-bacb-7655fecf702d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/756b02be-2006-41a9-a1dd-72a791dc331c/exterior/1778206759168-54eru8pmb1.jpg",
+            "id": "97d72dc5-23f5-49ec-9bf7-f924612b3ee1",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/AmwOkTMvlatp.jpg",
             "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "561c87a1-f76b-42c7-94e0-164103db0b9a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/x5Loph6OabyU.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "12ee622e-7721-447e-8a1d-704a77edff4b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/28/qg3H2YbhKdMN.jpg",
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -359,8 +366,8 @@
   "rooms": [
     {
       "id": "f66fc3e0-c998-43db-84e2-45790ce622f6",
-      "name": "101",
-      "description": "",
+      "name": "트윈 101",
+      "description": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\r\n산전망, 20평\r\nTV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -377,94 +384,37 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": [ ],
-      "amenities": [
-        "침대",
-        "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "냉장고",
-        "전자레인지",
-        "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "OTT",
-        "개별바비큐"
-      ],
-      "roomViews": [
-        "마운틴뷰"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "N",
-        "barbecueState": "Y"
-      },
-      "images": [
+      "bedConfigs": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 2,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
         }
       ],
-      "displayOrder": 0
-    },
-    {
-      "id": "0b05300e-ac37-4288-a790-339ce4fc18dc",
-      "name": "102",
-      "description": "",
-      "roomInfo": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\n",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
-      "group": null,
-      "size": 66.12,
-      "baseOccupancy": 2,
-      "maxOccupancy": 4,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 1,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "퀸 베드"
-      ],
-      "bedConfigs": [ ],
       "amenities": [
-        "침대",
+        "취사시설/도구",
+        "개별바비큐",
+        "OTT",
         "테라스",
-        "무료 WiFi",
-        "스마트 TV",
+        "전자레인지",
+        "전기밥솥",
         "에어컨",
         "냉장고",
-        "전자레인지",
+        "금연",
+        "TV",
         "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
-        "샴푸",
-        "린스",
         "바디워시",
-        "OTT",
-        "개별바비큐"
+        "스파/월풀",
+        "샴푸"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -486,17 +436,91 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "ba8f02cb-427c-44a4-9fda-6ec38efa5b26",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/ftYvOGKZNXzW.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "26705513-46c7-4ac9-b340-c9792e64b96f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/QJANWv3T8qYe.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "3e9283d1-c8e1-4df2-bd39-a336ffd983df",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/DmBMGZFiIElO.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2d49afc9-e3de-458d-a81a-1de16a95fa76",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/3Q4MOiNJBko0.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "c9ee5c79-b436-42ff-b8d8-6e8a8f4f62a1",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/2xMTkHmdvz1n.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "c9623925-ed82-4ed2-9cd9-e5946b305071",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/uBMX5LRoW7AJ.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b2e266a5-6a59-4f1c-a8cb-b54b1b948858",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/8IufFRPTGmnY.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "071b39d0-a09c-4961-b3d8-8349ed39b9fb",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/jHxd4QNP2Gvz.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ef797d09-e4d4-4241-a585-d016b77d41cf",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/NEp1JLZFR7rI.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
       "displayOrder": 1
     },
     {
-      "id": "6182cc3c-402c-47fc-a95a-0b67fb252184",
-      "name": "103",
-      "description": "",
+      "id": "0b05300e-ac37-4288-a790-339ce4fc18dc",
+      "name": "트윈 102",
+      "description": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\r\n산전망, 20평\r\nTV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -513,25 +537,36 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": [ ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 2,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
         "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "냉장고",
         "전자레인지",
         "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
-        "샴푸",
-        "린스",
         "바디워시",
+        "스파/월풀",
+        "샴푸",
         "OTT",
+        "취사시설/도구",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
         "개별바비큐"
       ],
       "roomViews": [
@@ -554,23 +589,89 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "25a7a81c-039f-44c8-8185-a18493105806",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/m1dwnqiNLCRz.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "f2482566-d23f-4a25-92df-8da075bf6284",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/GJScHDbsRTwX.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "fa8717ad-cdfe-40f1-8da7-a3ca0090534e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/cJxreqUQOpaL.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "43c02986-c94d-41d2-9cfd-61e4535dced8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/gF2BtdEs8Qea.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4da8a634-e2ff-4db6-bada-87599a170ccc",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/w43onvulcNik.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4ffc0a5d-e540-4b16-b00a-863935aaf314",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/bWozPUSDLCJm.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "daeff904-978d-40d1-ae79-3457ace6d22a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/VzlyKn8Cauxk.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "10881565-2a90-43a2-8994-769e07557a27",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/OlEfaGdYH3rL.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
       "displayOrder": 2
     },
     {
-      "id": "71d72db5-4498-4d48-abdc-7ebc5f74dfb0",
-      "name": "201",
-      "description": "",
-      "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
-      "usageGuide": "",
+      "id": "6182cc3c-402c-47fc-a95a-0b67fb252184",
+      "name": "트윈 103",
+      "description": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\r\n산전망, 20평\r\nTV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
+      "roomInfo": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\n",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
-      "size": 82.65,
+      "size": 66.12,
       "baseOccupancy": 2,
-      "maxOccupancy": 2,
+      "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -581,26 +682,37 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": [ ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 2,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "테라스",
-        "무료 WiFi",
-        "스마트 TV",
+        "바디워시",
+        "스파/월풀",
+        "샴푸",
+        "개별바비큐",
+        "OTT",
+        "취사시설/도구",
+        "전기밥솥",
         "에어컨",
         "냉장고",
+        "테라스",
         "전자레인지",
         "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "OTT",
-        "개별바비큐"
+        "금연",
+        "TV"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -622,17 +734,67 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "c2f7104c-b700-4229-9536-651d44cdeb3c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/pPnAWR419zQs.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "d6ec00a9-04e5-4f62-926b-ed3dff2f7eb5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/gV2xJChzEXQ6.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d61a4cae-bf91-42d5-94b8-d4b9a4889642",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/8xb26C17Ppa0.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b700b71f-4702-4d63-ad33-2d8da58a1213",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/SVOAYLyfEjHJ.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "61a599f3-217e-4554-9694-3597141fd2b5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/8pWFJ4kCG59g.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "10ea7d96-39c2-4b0a-aac7-e0c1349a46b6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/V98zUdBhAKTu.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
       "displayOrder": 3
     },
     {
-      "id": "49528b57-7c8b-405e-a3cd-0c25680a02ea",
-      "name": "202",
-      "description": "",
+      "id": "71d72db5-4498-4d48-abdc-7ebc5f74dfb0",
+      "name": "201",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\r\n산전망, 25평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,린스,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "",
       "group": null,
@@ -649,26 +811,40 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": [ ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
-        "침대",
-        "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "냉장고",
         "전자레인지",
         "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
+        "바디워시",
+        "스파/월풀",
         "샴푸",
         "린스",
-        "바디워시",
+        "개별바비큐",
         "OTT",
-        "개별바비큐"
+        "취사시설/도구",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "테라스"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -690,23 +866,105 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "68a02431-e794-43e3-9c10-b6e70b056b23",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/Hgca2uNkvPM5.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "73e31576-00a3-4b1d-bb73-2faae4e816e6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/mon7XWUFHCxN.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "fce071b5-8564-4b75-91c5-1637924279d4",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/1STtmzXdK5AI.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2a4b48fd-2511-4294-9725-35673ca74ea8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/jRtdU9bTxALM.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "798f6b10-36d9-4937-b8e0-d86e260a5fb3",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/B6w3bdx95hHM.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "affdf48d-de6a-4750-9a21-43bd058c03f5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/nfc0TA2lrimC.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "845851b2-9cbf-412d-b7f9-ec8bfdb2731e",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/NBozuk6vCItW.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "da3201a0-a1b7-4776-b7fa-e1f3d4845f05",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/k16r02WVzSLQ.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "62dc4b62-2c2a-4a94-8c0d-05a160ed98c5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/5TXAjQHpibZS.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "fa9bfa44-a63c-4ff5-8e90-64a01efe78c0",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/ercmRWCTiHMN.jpg",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
       "displayOrder": 4
     },
     {
-      "id": "08f03b2e-bf70-4df1-a880-d1ae5c014f4f",
-      "name": "A",
-      "description": "",
-      "roomInfo": "독채형, 거실1+침대룸(퀸침대1+베드형쇼파1)+주방1+화장실1+개별바비큐\n",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
+      "id": "49528b57-7c8b-405e-a3cd-0c25680a02ea",
+      "name": "202",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\r\n산전망, 25평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,린스,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
+      "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\n",
+      "usageGuide": "",
       "group": null,
-      "size": 99.17,
+      "size": 82.65,
       "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "maxOccupancy": 2,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -728,36 +986,35 @@
             "queen": 1,
             "king": 0,
             "family": 0,
-            "sofaBed": 1,
+            "sofaBed": 0,
             "beddingSet": 0
           }
         }
       ],
       "amenities": [
-        "침대",
+        "개별바비큐",
+        "OTT",
         "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "냉장고",
         "전자레인지",
         "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
+        "바디워시",
+        "스파/월풀",
         "샴푸",
         "린스",
-        "바디워시",
-        "OTT",
-        "개별바비큐"
+        "취사시설/도구",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
         "마운틴뷰"
       ],
       "roomStructures": [
-        "독채"
+        "원룸형"
       ],
       "status": "active",
       "timeSettings": {
@@ -773,17 +1030,91 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "4931728e-5432-409b-8444-f82bbc6d2c78",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/hDbdoxS3Ovu8.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "383ebe18-45be-422b-9ba9-61888bda8426",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/QOl8uYDT25AR.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7f4134b1-8b14-4660-8b90-56fe964ff908",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/kiZLx3RKG6SI.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2d5b5af8-6368-48b0-8fa8-50d96c56fa0c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/2xzf4ITSud6B.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ae816cbe-f48c-4933-9ba2-8db1887ad6ce",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/2f9GIhEblk81.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a2813579-e3e3-4a60-bb0f-a87cecd03fe4",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/fhRX6TQneu5W.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "9905aea8-52b9-4e6a-b4bd-f91959f5eee6",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/Sb1d80klLuUC.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "32212489-fa54-448f-9f50-84560520235a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/LYONqbzFUC5x.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d8aa6aae-77ad-4af1-8be2-f8a3748a80b5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/H3eGuIZOBimo.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
       "displayOrder": 5
     },
     {
-      "id": "19f27d8a-106b-4274-9556-9a435d0beb98",
-      "name": "B",
-      "description": "",
+      "id": "08f03b2e-bf70-4df1-a880-d1ae5c014f4f",
+      "name": "A",
+      "description": "독채형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\r\n산전망, 30평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,린스,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
       "roomInfo": "독채형, 거실1+침대룸(퀸침대1+베드형쇼파1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -811,30 +1142,29 @@
             "queen": 1,
             "king": 0,
             "family": 0,
-            "sofaBed": 1,
+            "sofaBed": 0,
             "beddingSet": 0
           }
         }
       ],
       "amenities": [
-        "침대",
         "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "냉장고",
         "전자레인지",
         "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
+        "바디워시",
+        "스파/월풀",
         "샴푸",
         "린스",
-        "바디워시",
+        "개별바비큐",
         "OTT",
-        "개별바비큐"
+        "취사시설/도구",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -856,17 +1186,271 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "312e5d48-bd9f-430b-b171-c005a66ced84",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/8TnwSbCmBA3Q.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "88d227cf-6239-4cdd-9b84-0fed67981c11",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/WLptx389GQHR.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "1dc84a78-00a5-4d83-9770-afc7aca460c9",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/0SwNJO7Vrmog.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "584b5d4a-e394-4409-b11f-96857bea9b0d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/hPY1dr3iZCjU.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ff58e280-0a9e-48d8-9219-a7efc5147385",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/fAzEpCs6LjI3.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d5872516-5c80-4a46-8727-607a715f071c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/5EhIVwp7eMmt.jpg",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4c631b49-af59-4e2b-805c-68c1c3a716c8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/g3LDeHiAwvGN.jpg",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "14158ee6-6b73-49a3-9193-e0a63cbcad05",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/EjGp1kavKMtx.jpg",
+              "sortOrder": 18,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "28d5e1dc-0356-42ba-b5d7-cd98e7f2b960",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/6vMU4FQ50Xbg.jpg",
+              "sortOrder": 19,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "b3159b1c-bd34-4a6b-9212-33d7fe299a23",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/L9eUA4va1zpl.jpg",
+              "sortOrder": 20,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "eb6ad0a3-3a83-4dc8-9f53-512494767947",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/h3I5wk4zMu2s.jpg",
+              "sortOrder": 21,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
       "displayOrder": 6
     },
     {
+      "id": "19f27d8a-106b-4274-9556-9a435d0beb98",
+      "name": "B",
+      "description": "독채형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\r\n30평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,린스,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
+      "roomInfo": "독채형, 거실1+침대룸(퀸침대1+베드형쇼파1)+주방1+화장실1+개별바비큐\n",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
+      "group": null,
+      "size": 99.17,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "테라스",
+        "전자레인지",
+        "인덕션",
+        "바디워시",
+        "스파/월풀",
+        "개별바비큐",
+        "OTT",
+        "취사시설/도구",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "샴푸",
+        "린스",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [
+        "마운틴뷰"
+      ],
+      "roomStructures": [
+        "독채"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [
+            {
+              "id": "1e6f58c5-930f-46e2-8330-bbaead83a18a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/gGZUVjmiyvDd.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "614fbbf4-8a25-48c9-b484-e0a54cf7a7fc",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/xB2hUqOaY3Hk.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "9eafe9a5-e813-437f-babd-8e8d2a28edda",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/2Y85MhkWGNjZ.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "e0663b51-cee0-4db0-aa1e-7937fdb14cf8",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/pqoAfOvPcK9x.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "594a9991-8ca0-4bd3-afb1-56631605540a",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/ADehUqHWR62s.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "e67a9186-7ec7-4d6f-9a60-df19ec5e7f3f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/txsqM0lioX8O.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ef63427d-c8f3-4bdc-b2d7-0225ea7655f5",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/SDT7N63VFq1E.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "98f90ce4-edea-4f57-89a9-8d113e353a9d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/0PySVAhOLfWd.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ee01e977-e156-46c6-9a1b-99b2c0e88e78",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/Fj7JHnZwfVXK.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2e1ae56f-5d8b-462e-88a6-4fb496bc3e8d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/HuzloOfN6nck.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 7
+    },
+    {
       "id": "a558f0f5-ad70-4cba-814e-84c678194044",
       "name": "C",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐\r\n산전망, 30평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,린스,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1+베드형쇼파1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -894,30 +1478,29 @@
             "queen": 1,
             "king": 0,
             "family": 0,
-            "sofaBed": 1,
+            "sofaBed": 0,
             "beddingSet": 0
           }
         }
       ],
       "amenities": [
-        "침대",
-        "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "에어컨",
-        "냉장고",
         "전자레인지",
         "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
-        "샴푸",
-        "린스",
         "바디워시",
+        "린스",
+        "개별바비큐",
         "OTT",
-        "개별바비큐"
+        "취사시설/도구",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "스파/월풀",
+        "샴푸",
+        "테라스"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -939,17 +1522,99 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "f737a123-1c9d-473d-83a9-60b9239b2a9f",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/SlacMrxHItEp.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "f73e1f0c-fee3-43ea-815e-f3642b932dba",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/ofgpIbd8hDKx.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "4759be19-2533-4846-a975-59832df4a731",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/lZCts019OoPG.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "f2002f31-578d-407f-9353-0fe8f013d655",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/tCfO93DYIJLN.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "237157a5-de52-4046-8a19-f7c11d09db1c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/awZcvzUFIdlb.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "a17205e2-457f-4396-bfc7-6b4355301193",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/7wJZqu8axsEj.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "c289b9c4-145b-45ab-b1a8-352c14396304",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/BUpaJkfDEzSF.jpg",
+              "sortOrder": 14,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "91cc8e06-2f29-4b0a-9c1a-c9d94efd4411",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/mPcSxJhGWZNi.jpg",
+              "sortOrder": 15,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "2c070248-696c-4e66-a920-ad6cf1844103",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/cQ25DSn4TkCJ.jpg",
+              "sortOrder": 16,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "d7621fa3-f8b7-44a4-8fb1-dedc5f6e618d",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/zEQx6fr3YKVM.jpg",
+              "sortOrder": 17,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 8
     },
     {
       "id": "f2733218-1ad7-4035-9c1d-61567f8d5898",
-      "name": "P",
-      "description": "",
+      "name": "트윈 P",
+      "description": "원룸형, 거실1+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\r\n산전망, 30평\r\nTV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,개별바비큐,샴푸,스파/월풀,바디워시,인덕션,전자레인지,테라스",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대2+베드형쇼파1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 미만 1인 10,000원\n- 24개월 이상~성인 1인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -977,30 +1642,26 @@
             "queen": 2,
             "king": 0,
             "family": 0,
-            "sofaBed": 1,
+            "sofaBed": 0,
             "beddingSet": 0
           }
         }
       ],
       "amenities": [
-        "침대",
         "테라스",
-        "무료 WiFi",
-        "스마트 TV",
+        "개별바비큐",
+        "바디워시",
+        "스파/월풀",
+        "OTT",
+        "취사시설/도구",
+        "전기밥솥",
         "에어컨",
         "냉장고",
-        "전자레인지",
-        "인덕션",
-        "전기밥솥",
-        "조리도구",
-        "화장실",
-        "스파",
-        "수건",
         "샴푸",
-        "린스",
-        "바디워시",
-        "OTT",
-        "개별바비큐"
+        "금연",
+        "TV",
+        "전자레인지",
+        "인덕션"
       ],
       "roomViews": [
         "마운틴뷰"
@@ -1022,12 +1683,86 @@
       },
       "images": [
         {
-          "thumbnail": [ ],
-          "interior": [ ],
+          "thumbnail": [
+            {
+              "id": "fad710e9-7d83-496d-877b-2bf3324617f4",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/eCUwX7g84fdn.jpg",
+              "sortOrder": 1,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
+          "interior": [
+            {
+              "id": "e03e2c8c-a201-4b4c-8165-91991bdd9e68",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/VNyE1jr5eBIb.jpg",
+              "sortOrder": 2,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "262ad674-07f1-450c-bad4-77a8d56b98dd",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/FYiUmeMDfNK0.jpg",
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "18c303be-3e3e-4000-af52-02a3cb0a2b36",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/cvxAsKmML9p4.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7cda3bd4-e7b0-406b-8018-9652edc5f22b",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/vB3X6KGr9YA7.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "7999719c-dd04-4b19-b34d-5d2db2aa4a26",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/ldeZYwhXKpaO.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "344d570f-a8e4-420e-af08-85c63b200436",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/MqQLtIVgbnT8.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "77853772-e0ec-44c9-bf00-ab31bc58ac60",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/jumW7l90KrUw.jpg",
+              "sortOrder": 8,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "ec07ecc8-d948-4352-9d60-1d8876d1b7b2",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/yoYBUVtvAS73.jpg",
+              "sortOrder": 9,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            }
+          ],
           "exterior": [ ]
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 9
     }
   ],
   "homepage": {
@@ -1051,7 +1786,9 @@
     "seo": {
       "title": "포천 라비앤로즈 펜션",
       "description": "포천 라비엔로즈 펜션, 맑은 자연 속에서 조용한 힐링을 즐기는 감성 스테이",
-      "keywords": "포천펜션, 감성숙소, 산속힐링, 자연속휴식, 포천여행추천"
+      "keywords": "포천펜션, 감성숙소, 산속힐링, 자연속휴식, 포천여행추천",
+      "naverSiteVerification": null,
+      "googleSiteVerification": null
     },
     "socialLinks": {
       "facebook": null,

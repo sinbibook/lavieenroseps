@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-11-26T02:31:29.317239899Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-11-26T02:31:54.490182778Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "756b02be-2006-41a9-a1dd-72a791dc331c",
     "homepageId": "0b4f8cc5-608e-4451-b27b-d2545fb93364"
@@ -29,6 +29,9 @@
     "domain": "lavieenroseps.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1657781",
     "ybsId": "26994",
+    "tripPropertyId": "12039",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -53,8 +56,7 @@
       "businessEmail": "",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -363,10 +365,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "12039",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
@@ -2101,10 +2100,10 @@
             }
           ]
         },
-        "layoutMap": {
+        "nearbyAttractions": {
           "sections": [ ]
         },
-        "nearbyAttractions": {
+        "layoutMap": {
           "sections": [ ]
         },
         "landing": {
